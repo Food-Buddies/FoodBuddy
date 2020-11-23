@@ -85,15 +85,6 @@ display:flex;
 	margin-left:740px
 }
 
-/*Styles for header banner*/
-#banner
-{
-	padding: 7em 0em 7em 0em;
-	background: rgb(0, 128, 0);	
-	background-size: cover;
-	text-align: center;
-	color: rgb(255,255,255);
-}
 #urWelcome {
     background-repeat: no-repeat;
     text-align: center;

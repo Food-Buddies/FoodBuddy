@@ -1,0 +1,74 @@
+/*Styles for header banner*/
+#banner
+{
+	padding: 7em 0em 7em 0em;
+	background: #DAF7A6;	
+	text-align: center;
+	color: rgb(0, 0, 0);
+}
+
+#downloads
+{
+	overflow: hidden;
+	padding: 5em 0em;
+}
+
+#downloads .title
+{
+	text-align: center;
+}
+
+#downloads .button
+{
+	margin-top: 5em;
+}
+
+#downloads .fa
+{
+	display: block;
+	margin-bottom: 0.5em;
+	text-align: center;
+	font-size: 3em;
+}
+
+.container
+{
+	overflow: hidden;
+	margin: 0em auto;
+    width: 1000px;
+}
+
+.box
+{
+    padding: 3em 2em 2em 2em;
+    border: 1px solid rgba(255, 255, 255, 0.8);
+    border-radius: 8px;
+	text-align: center;
+}
+
+.boxA,
+.boxB
+{
+	float: left;
+    margin-right: 20px;
+    width: 320px;
+
+}
+.boxC
+{
+    float: right;
+    width: 320px;
+}
+
+.icons
+{
+    margin-top: 10px;
+    text-align: center;
+}
+
+.icons img
+{
+    margin-right:20px;
+    margin-left:20px;
+    padding-bottom:30px;
+}
